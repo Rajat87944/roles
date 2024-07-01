@@ -1,0 +1,8 @@
+Flask
+mysql-connector-python
+Flask-SQLAlchemy
+python-dotenv
+Flask-Migrate
+Flask-Script
+Flask-Marshmallow
+marshmallow-sqlalchemy
